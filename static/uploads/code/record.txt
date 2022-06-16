@@ -1,0 +1,7 @@
+dim: 200, nbatchs: 20, batchsize: 836, epoch: 100	hit_10:0.795	mean_rank:23.335
+dim: 200, nbatchs: 20, batchsize: 836, epoch: 100	hit_10:0.795	mean_rank:23.335  2022-04-28 20:30:31
+dim: 200, nbatchs: 20, batchsize: 836, epoch: 200	hit_10:0.955	mean_rank:3.67	  2022-04-28 21:12:24
+dim: 200, nbatchs: 20, batchsize: 836, epoch: 300	hit_10:0.96	mean_rank:3.745	2022-04-28 22:04:24
+dim: 200, nbatchs: 20, batchsize: 836, epoch: 400	hit_10:1.0	mean_rank:1.685	2022-04-28 22:52:53
+
+dim: 200, nbatchs: 20, batchsize: 836, epoch: 400	hit_10:1.0	hit_1:0.33	hit_2:0.985	mean_rank:1.685	2022-04-28 23:03:06
